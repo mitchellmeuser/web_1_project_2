@@ -1,0 +1,110 @@
+ <body>
+      <nav>
+        <div id="left">
+          <img id="home" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/logo.png?raw=true" alt="logo">
+          <a id="ab" href="">ABOUT</a>
+          <a id="ga" href="">GALLERY</a>
+          <a id="do" href="">DOCUMENTS</a>
+        </div>
+        <div id="right">
+          <img id="fb" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/icons/facebook.png?raw=true" alt="fb">
+          <img id="twit" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/icons/twitter.png?raw=true" alt="twitter">
+          <div id="links">
+              <a id="lo" href="">LOGIN</a>
+              <p id="sep">|</p>
+              <a href="">REGISTER</a>
+            </div>
+        </div>
+      </nav>
+
+
+
+     <header>
+            <img id="lefta" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/arrows/left%20arrow.png?raw=true" alt="left arrow">
+           <img id="pug" src="https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2018/06/best-food-for-pug-puppies-header.jpg" alt="pug">
+    <img id="righta" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/arrows/right%20arrow.png?raw=true" alt="right arrow">
+
+       <div id="help">
+        <div id="profile">
+          <div id="lpro">
+           <strong>
+             <p id="name">Mitchell Meuser</p>
+            </strong> 
+            <p id="email">mitchell_meuser@yahoo.com</p>
+            <p id="ig">@mitchellmeuser</p>
+              <img id="fb2" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/icons/facebook.png?raw=true" alt="fb">
+          <img id="twit2" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/icons/twitter.png?raw=true" alt="twitter">
+          </div>
+            <img id="jim" src="https://media.wmagazine.com/photos/59c5428850341467c37ea675/4:3/w_1536/JIM_CARREY-promo.jpg" alt="jim">
+       </div>
+
+  <div id="bio">
+    <p id="biot">Lorem Ipsum</p>
+    <p id="biop1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates nemo earum architecto, magnam commodi quaerat saepe iste fugiat consequatur similique at culpa sint quia, nihil vitae et reiciendis odio! Eum!</p>
+    <p id="biop2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates nemo earum architecto, magnam commodi quaerat saepe iste fugiat consequatur similique at culpa sint quia, nihil vitae et reiciendis odio! Eum!</p>
+    <p id="biop3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates nemo earum architecto, magnam commodi quaerat saepe iste fugiat consequatur similique at culpa.</p>
+       </div>
+       </div>
+       </header>       
+       <p id="banner">Mitchell Meuser, Pug Life</p>
+      <div id="under">
+        <img id="p1" src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225358/Pug-On-White-01.jpg" alt="">
+              <img id="p3" src="https://www.kimballstock.com/pix/PUP/23/PUP-23-JE0006-01P.JPG" alt="">
+        <img id="p2" src="https://www.petguide.com/wp-content/uploads/2015/02/best-indoor-dogs-pug1.jpg" alt="">
+          </div>
+
+      <h3 id="port">MITCHELL MEUSER'S PORTFOLIO</h3>
+       <div id="gallery">
+        <img id="sky" src="https://www.w3schools.com/w3css/img_lights.jpg" alt="sky">
+        <img id="flower" src="https://cdn.pixabay.com/photo/2018/02/09/21/46/rose-3142529__340.jpg" alt="flower">
+        <img id="tree" src="https://i.kinja-img.com/gawker-media/image/upload/s--PnSCSSFQ--/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/z7jcryloxjedsztssw39.jpg" alt="tree">
+        <img id="water" src="https://thumbs.dreamstime.com/img/thumbsetc/thumb-audio.jpg" alt="water">
+      </div>
+      <div id="gallery2">
+        <img id="smile" src="https://resize.indiatvnews.com/en/centered/newbucket/715_431/2018/03/h6-1521531233.jpg" alt="smile">
+        <img id="bird" src="http://www.quoteambition.com/wp-content/uploads/2017/03/let-go-816x428.jpg" alt="bird">
+        <img id="lily" src="http://myzeroone.com/myzeroone/17133-images-of-desktop-wallpapers_19404.jpg" alt="">
+        <img id="sb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZa1PEBTTz2u04Y48fheeayale8cRWo9FMy3Pa8BaTRXO34jDk" alt="sb">   
+      </div>
+
+
+
+      <footer>
+        <div id="footer">
+        <img id="tbird" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/icons/bird.png?raw=true" alt="tbird">
+        <p id="foot">Get ready for something big. #nessst is coming!</p>
+        <p id="mins">about 20 minutes ago...</p>
+          </div>
+      </footer>
+      <div id="uf">
+        <div id="left1">
+         <img id="logo" src="https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/logo.png?raw=true" alt="logo">
+          <a id="ab2" href="">ABOUT</a>
+          <a id="ga2" href="">GALLERY</a>
+          <a id="do2" href="">DOCUMENTS</a>
+          <h3 id="look">LOOKING FOR SOMEONE?</h3>
+          <p id="find">Find who you're looking for.</p>
+          <input id="search"; placeholder="Search">
+          </div>
+        <div id="middle">
+          <h3>VISUAL COMMUNICATION DESIGN</h3>
+          <p id="design">A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society.</p>
+          <h4 id="read">READ MORE...</h4>
+        </div>
+        <div id="right2">
+          <h3>VIEW GALLERY</h3>
+            <div id="gallery4">
+               <img id="sky2" src="https://www.w3schools.com/w3css/img_lights.jpg" alt="sky">
+        <img id="flower2" src="https://cdn.pixabay.com/photo/2018/02/09/21/46/rose-3142529__340.jpg" alt="flower">
+        <img id="tree2" src="https://i.kinja-img.com/gawker-media/image/upload/s--PnSCSSFQ--/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/z7jcryloxjedsztssw39.jpg" alt="tree">
+        <img id="water2" src="https://thumbs.dreamstime.com/img/thumbsetc/thumb-audio.jpg" alt="water">
+          </div> 
+          <div id="gallery5">
+            <img id="smile2" src="https://resize.indiatvnews.com/en/centered/newbucket/715_431/2018/03/h6-1521531233.jpg" alt="smile">
+        <img id="bird2" src="http://www.quoteambition.com/wp-content/uploads/2017/03/let-go-816x428.jpg" alt="bird">
+        <img id="lily2" src="http://myzeroone.com/myzeroone/17133-images-of-desktop-wallpapers_19404.jpg" alt="">
+        <img id="sb2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZa1PEBTTz2u04Y48fheeayale8cRWo9FMy3Pa8BaTRXO34jDk" alt="sb2">   
+            </div>
+        </div>
+      </div>
+    </body>
