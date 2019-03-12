@@ -1,0 +1,257 @@
+body{
+  background: url('https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true');
+  background-size: cover;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none; 
+}
+#left{
+  margin: 30px 0px 0px 30px;
+}
+#home{
+  height: 77px;
+}
+#ab, #ga, #do{
+  margin: 0px 0px 0px 30px;
+  position: relative;
+  bottom: 37px;
+}
+#right{
+  flex-direction: column;
+  align-items: flex-end;
+  margin: 30px 30px 0px 0px;
+}
+#fb, #twit{
+  height: 30px;
+  margin: 0px 0px 15px 14px;
+  border-radius: 5px;
+}
+#links{
+  display: flex;
+}
+#lo{
+  margin: 0px 40px 0px -77px;
+}
+#sep{
+  position: relative;
+  bottom: 17px;
+  right: 20px;
+}
+
+
+
+header{
+ display: flex;
+}
+#pug{
+  width: 930px;
+  height: 500px;
+  border: 7px solid black;
+  margin: 0px 0px 0px -43px;
+}
+#lefta, #righta{
+ height: 100px;
+ position: relative;
+ top: 200px;
+}
+#lefta{
+left: 10px;
+}
+#righta{
+  right: 53px;
+}
+#profile{
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  width: 430px;
+  height: 169px;
+  margin: 0px 30px 0px 0px;
+}
+#name{
+  margin: 20px 0px 0px 80px;
+}
+#ig{
+   margin: 0px 0px 0px 78px;
+}
+#lpro{
+ margin: 0px 0px 0px 30px;
+}
+#fb2{
+  height: 25px;
+  margin: 10px 0px 0px 128px;
+  border-radius: 5px;
+}
+#twit2{
+  height: 25px;
+  margin: 10px 0px 0px 10px;
+  border-radius: 5px;
+}
+#jim{
+  width: 175px;
+  height: 138px;
+  margin: 15px 15px 0px 0px;
+}
+#bio{
+  background-color: white;
+  width: 430px;
+  height: 360px;
+  margin: 0px 30px 0px 0px;
+}
+#biot{
+  font-size: 18px;
+  padding: 15px 0px 0px 15px;
+}
+#biop1, #biop2, #biop3{
+  font-size: 18px;
+  padding: 10px 0px 0px 15px;
+}
+#banner{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  right: 69px;
+  background: grey;
+  margin: -60px 467px 40px 106px;
+  font-size: 18px;
+}
+#p1{
+  height: 180px;
+  width: 300px;
+  margin: 0px 0px 0px 30px;
+  border: 5px solid black;
+}
+#p2{
+  height: 180px;
+  width: 300px;
+  margin: 0px 0px 0px 3px;
+  border: 5px solid black;
+}
+#p3{
+  height: 180px;
+  width: 300px;
+  margin: 0px 0px 0px 3px;
+  border: 5px solid black;
+}
+#port{
+  margin: 50px 0px 0px 30px;
+}
+#sky,#flower,#tree,#water{
+  height: 200px;
+  width: 350px;
+}
+#gallery{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 30px 0px 30px;
+}
+#smile, #bird, #lily, #sb{
+  height: 200px;
+  width: 350px;
+}
+#gallery2{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 30px 0px 30px;
+}
+
+
+
+#tbird{
+  height: 20px;
+  position: relative;
+  top: 13px;
+  margin: 0px 10px 0px 0px;
+}
+footer{
+  background-color: grey;
+  box-shadow: 0px 8px 20px #555555;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px 8px 0px;
+}
+#footer{
+  display: flex;
+  margin: 0px 0px 12px 0px;
+}
+#foot{
+  margin: 16px 10px 0px 0px;
+}
+#mins{
+  font-size: 12px;
+  position: relative;
+  top: 8px;
+}
+#uf{
+  background: url('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
+  background-color: #a6a69d;
+	background-blend-mode: multiply;
+  display: flex;
+  justify-content: space-between;
+}
+#left1{
+  width: 500px;
+  margin: 30px 0px 0px 30px;
+}
+#logo{
+  height: 50px;
+}
+#ab2, #ga2, #do2{
+  position: relative;
+  bottom: 25px;
+  margin: 0px 0px 0px 30px;
+}
+#look{
+   margin: 30px 0px 0px 0px;
+}
+#find{
+  color: white;
+  margin: 5px 0px 0px 0px;
+}
+#search{
+  margin: 5px 0px 30px 0px;
+  width: 420px;
+  height: 30px;
+}
+#middle{
+  width: 400px;
+  margin: 20px 0px 0px 0px;
+}
+#design{
+  color: white;
+  width: 350px;
+}
+#read{
+  margin: 0px 0px 30px 0px;
+}
+#right2{
+  width: 500px;
+  margin: 20px 0px 0px 0px;
+}
+#gallery4{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 30px 0px 0px;
+}
+#sky2,#tree2,#water2,#flower2{
+  height: 60px;
+  width: 110px;
+}
+#gallery5{
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 30px 30px 0px;
+}
+#sb2,#lily2,#bird2,#smile2{
+  height: 60px;
+  width: 110px;
+}
+a:hover{
+  color: grey;
+}
