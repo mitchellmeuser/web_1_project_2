@@ -1,0 +1,211 @@
+body{
+  background: url('https://github.com/mitchellmeuser/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true');
+  background-size: cover;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none; 
+}
+#left{
+  margin: 30px 0px 0px 30px;
+}
+#home{
+  height: 77px;
+}
+#ab, #ga, #do{
+  margin: 0px 0px 0px 30px;
+  position: relative;
+  bottom: 37px;
+}
+#right{
+  flex-direction: columns;
+  align-items: flex-end;
+  margin: 30px 30px 0px 0px;
+}
+#fb, #twit{
+  height: 30px;
+  margin: 0px 0px 15px 14px;
+  border-radius: 5px;
+}
+#links{
+  display: flex;
+}
+#lo{
+  margin: 0px 40px 0px -77px;
+}
+#sep{
+  position: relative;
+  bottom: 17px;
+  right: 20px;
+}
+#header{
+ display: flex;
+ justify-content: center;
+}
+#pug{
+  width: 100%;
+  margin: 0px -42px 15px -42px;
+  border: 10px solid black;
+}
+#lefta, #righta{
+ height: 100px;
+ position: relative;
+ top: 300px;
+}
+#lefta{
+left: 11px;
+}
+#righta{
+  right: 11px;
+}
+#banner{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  right: 69px;
+  background: grey;
+  margin: -46px -27px 40px 110px;
+  font-size: 18px;
+}
+#under{
+ display: flex;
+ justify-content: center;
+ font-size: 18px;
+}
+#sky,#flower,#tree,#water{
+  height: 200px;
+  width: 350px;
+}
+#gallery{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 30px 0px 30px;
+}
+#smile, #bird, #lily, #sb{
+  height: 200px;
+  width: 350px;
+}
+#gallery2{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 30px 0px 30px;
+}
+#duck, #el, #bug, #star{
+  height: 200px;
+  width: 350px;
+}
+#gallery3{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 30px 30px 30px;
+}
+#button{
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+}
+  .button {
+	text-decoration: none;
+	color: white;
+	background: url('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
+	padding: 10px 50px;
+	background-color: #a6a69d;
+	background-blend-mode: multiply;
+}
+#tbird{
+  height: 20px;
+  position: relative;
+  top: 13px;
+  margin: 0px 10px 0px 0px;
+}
+footer{
+  background-color: grey;
+  box-shadow: 0px 8px 20px #555555;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px 8px 0px;
+}
+#footer{
+  display: flex;
+  margin: 0px 0px 12px 0px;
+}
+#foot{
+  margin: 16px 10px 0px 0px;
+}
+#mins{
+  font-size: 12px;
+  position: relative;
+  top: 8px
+}
+#uf{
+  background: url('https://github.com/tyreil/web_1_project_2/blob/master/assets/textures/az_subtle.png?raw=true');
+  background-color: #a6a69d;
+	background-blend-mode: multiply;
+  display: flex;
+  justify-content: space-between;
+}
+#left1{
+  width: 500px;
+  margin: 30px 0px 0px 30px;
+}
+#logo{
+  height: 50px;
+}
+#ab2, #ga2, #do2{
+  position: relative;
+  bottom: 25px;
+  margin: 0px 0px 0px 30px;
+}
+#look{
+   margin: 30px 0px 0px 0px;
+}
+#find{
+  color: white;
+  margin: 5px 0px 0px 0px;
+}
+#search{
+  margin: 5px 0px 30px 0px;
+  width: 420px;
+  height: 30px;
+}
+#middle{
+  width: 400px;
+  margin: 20px 0px 0px 0px;
+}
+#design{
+  color: white;
+  width: 350px;
+}
+#read{
+  margin: 0px 0px 30px 0px;
+}
+#right2{
+  width: 500px;
+  margin: 20px 0px 0px 0px;
+}
+#gallery4{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 30px 0px 0px;
+}
+#sky2,#tree2,#water2,#flower2{
+  height: 60px;
+  width: 110px;
+}
+#gallery5{
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 30px 30px 0px;
+}
+#sb2,#lily2,#bird2,#smile2{
+  height: 60px;
+  width: 110px;
+}
+a:hover{
+  color: grey;
+}
